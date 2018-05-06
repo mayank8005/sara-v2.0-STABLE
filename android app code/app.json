@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "orientation": "portrait",
+    "name": "SARA",
+    "description": "intellegent home solution",
+    "slug": "sara",
+    "version": "2.0",
+    "android": {
+      "package": "org.randomways01.exp"
+    }
+  }
+}
